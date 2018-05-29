@@ -1,0 +1,8 @@
+author = MinnowTheFish & TheTitanGiant
+version = 0.5.1
+displayName = Fidget Spinners
+hideCode = true
+hideResources = true
+includeSource = true
+buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*
+includePDB = true
